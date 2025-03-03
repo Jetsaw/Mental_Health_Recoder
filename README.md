@@ -13,17 +13,16 @@ WiFi Connectivity: ESP32 connects to the internet.
 
 Telegram Bot Integration: Sends student mood data to a Telegram chat.
 
-Hardware Requirements
+Hardware Requirements --------------------
 
-ESP32
+-ESP32
 
-0.96-inch OLED Display (SSD1306)
+-0.96-inch OLED Display (SSD1306)
 
-Rotary Encoder with Push Button
+-Rotary Encoder with Push Button
 
-WiFi Connection
 
-Software Requirements
+Software Requirements----------------------
 
 Arduino IDE
 
@@ -39,12 +38,7 @@ NTP Client Library
 
 Universal Telegram Bot Library
 
-Installation & Setup
 
-Clone the Repository
-
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
 
 Open the Arduino IDE and install the necessary libraries.
 
@@ -74,7 +68,4 @@ License
 
 This project is licensed under the MIT License.
 
-Contact
-
-For any inquiries, contact: [your email or GitHub profile]
 
